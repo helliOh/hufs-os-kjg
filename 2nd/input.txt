@@ -1,0 +1,8 @@
+hello pipe
+hello posix ipc
+hello pipe
+hello posix ipc
+hello pipe
+hello posix ipc
+hello pipe
+hello posix ipc

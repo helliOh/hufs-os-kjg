@@ -1,0 +1,2 @@
+sftp for vm fedora with atom success!
+kimochi
